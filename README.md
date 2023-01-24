@@ -2,4 +2,6 @@
 
 Designing the screen below
 
-![Alt text](https://raw.githubusercontent.com/emrecanoner/FlutterDesign1/master/Screenshot/Screenshot.jpeg "Assignment")
+<p>
+  <img src="/Screenshot/Screenshot.jpeg" width="300" />
+</p>
